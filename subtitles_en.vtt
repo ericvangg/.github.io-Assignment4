@@ -1,0 +1,46 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.606
+I am going to show you how i made my portfolio.
+
+2
+00:00:11.739 --> 00:00:14.000
+I used a template from this site called bootstrap.
+
+3
+00:00:14.00 --> 00:00:20.00
+When you subscribe confetti it will take you to another webpage that has confetti
+
+4
+00:00:20.00 --> 00:00:30.00
+Using the template called stylish portfolio it makes life very easy
+
+5
+00:00:30.00 --> 00:00:40.00
+I use visual studio code as my text editor
+
+6
+00:00:40.00 --> 00:01:00.00
+Downloading this template already comes with everything you need, all you have to do is edit the index.html and css page
+
+
+7
+00:01:00.00 --> 00:01:10.00
+Using visual studio code as my text editor I linked the subscribe button to the thankyou.html page
+
+8
+00:01:10.00 --> 00:01:20.00
+Using a script from mathusummut. Placing it into the body allowed the confetti to display.
+
+9
+00:01:40.00 --> 00:01:50.00
+Autoplay makes it so that the video automatically plays when the page loads
+
+10
+00:01:50.00 --> 00:02:00.00
+Loop allows for my video to constantly loop even after it finishes
+
+11
+00:02:15.00 --> 00:02:29.00
+Simple and easy to do but this is how i made my portfolio!
